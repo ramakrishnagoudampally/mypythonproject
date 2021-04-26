@@ -10,3 +10,6 @@ else:
     print("y=%d> x=%d"%(y,x))
     print(dir(sys))
     print("argv is:",sys.argv)
+
+
+print("hello world")

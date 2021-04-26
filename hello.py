@@ -6,7 +6,6 @@ x = 10
 y = 12
 print("exiting..using sys.exit")
 #sys.exit()
-#develop branch
 if(x > y):
     print("x>y")
 else:
